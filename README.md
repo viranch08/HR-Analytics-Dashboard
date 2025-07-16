@@ -77,7 +77,7 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 ## ✍️ Author
 
 **Viranch Dadheech**  
-📫 [LinkedIn Profile](https://github.com/viranch08)  
+📫 [LinkedIn Profile](https://www.linkedin.com/in/viranch-dadheech08/)  
 ## 📸 Dashboard Preview
 
 [Dashboard Screenshot](https://github.com/viranch08/HR-Analytics-Dashboard/blob/main/dashboard.png)
